@@ -1,8 +1,14 @@
+remote_theme: jekyll/minima
+
 title: hyunjunian blog
 description: hyunjunian의 블로그입니다.
 
+author:
+  name: 전현준
+  email: hyunjunian.dev@gmail.com
+
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: %F
 
   social_links:
     github: hyunjunian
@@ -10,7 +16,9 @@ minima:
 header_pages:
   - about.md
 
-theme: minima
+list_title:
+
+paginate: 5
 
 timezone: Asia/Seoul
 
