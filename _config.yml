@@ -14,7 +14,7 @@ minima:
     github: hyunjunian
 
 header_pages:
-  - about.md
+  - 소개.md
 
 timezone: Asia/Seoul
 
