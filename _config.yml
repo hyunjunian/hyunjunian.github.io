@@ -15,6 +15,8 @@ minima:
 
 header_pages:
 
+google_analytics:
+
 timezone: Asia/Seoul
 
 url: https://hyunjunian.github.io
