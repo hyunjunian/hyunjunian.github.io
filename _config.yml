@@ -8,7 +8,7 @@ author:
   email: hyunjunian.dev@gmail.com
 
 minima:
-  date_format: %F
+  date_format: "%F"
 
   social_links:
     github: hyunjunian
