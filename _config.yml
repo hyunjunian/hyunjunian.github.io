@@ -17,6 +17,9 @@ header_pages:
 
 timezone: Asia/Seoul
 
+url: https://hyunjunian.github.io
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
