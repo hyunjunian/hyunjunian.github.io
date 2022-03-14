@@ -1,27 +1,27 @@
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima"
 
-title: 전현준의 블로그
-description: 소프트웨어와 주식과 삶에 관련한 유익한 에세이를 읽어보세요.
+title: "전현준의 블로그"
+description: "소프트웨어와 주식과 삶에 관련한 유익한 에세이를 읽어보세요."
 
 author:
-  name: 전현준
-  email: hyunjunian.dev@gmail.com
+  name: "전현준"
+  email: "hyunjunian.dev@gmail.com"
 
 minima:
   date_format: "%F"
 
   social_links:
-    github: hyunjunian
+    github: "hyunjunian"
 
 header_pages:
 
-google_analytics: UA-222099201-1
+google_analytics: "UA-222099201-1"
 
-timezone: Asia/Seoul
+timezone: "Asia/Seoul"
 
-url: https://hyunjunian.github.io
+url: "https://hyunjunian.github.io"
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-sitemap"
